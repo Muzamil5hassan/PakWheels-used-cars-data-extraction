@@ -17,5 +17,5 @@ PakWheels is a leading online platform for buying and selling cars in Pakistan. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/muzamil5hassan/pakwheels-scraper.git
-   cd pakwheels-scraper
+   git clone https://github.com/muzamil5hassan/PakWheels-used-cars-data-extraction.git
+   cd PakWheels-used-cars-data-extraction
